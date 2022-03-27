@@ -58,7 +58,7 @@ Problem set 3 ([PDF]({{< baseurl >}}/resources/mit12_950iap10_hw3))
 Problem set 4 ([PDF]({{< baseurl >}}/resources/mit12_950iap10_hw4))
 {{< tdclose >}}
 {{< tdopen >}}
-Time a simulated halo exchange ([F](/courses/earth-atmospheric-and-planetary-sciences/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/assignments/Halo.f))
+Time a simulated halo exchange ([F]({{< baseurl >}}/resources/halo))
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 74c7a7ac-89fa-b9fc-1942-4f3daf737786
 resourcetype: Document
 title: More Pt2Pt and Collective Communications
 uid: 3fda774b-f419-18c4-4567-b60d18ad2e30

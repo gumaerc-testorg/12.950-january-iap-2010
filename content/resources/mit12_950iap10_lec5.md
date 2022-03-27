@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 74c7a7ac-89fa-b9fc-1942-4f3daf737786
 resourcetype: Document
 title: More MPI-1 and Parallel Programming
 uid: a5ec04f8-8c8b-a5e8-5086-e7078b20200f

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 74c7a7ac-89fa-b9fc-1942-4f3daf737786
 resourcetype: Document
 title: Parallel Computing and MPI Pt2Pt
 uid: d38f3c6b-eb50-fdf3-c4fd-cca37008c25f

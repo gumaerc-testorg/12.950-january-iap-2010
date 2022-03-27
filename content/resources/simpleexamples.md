@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1ab8d517-bb8e-0933-8180-af65586c56df
 resourcetype: Other
 title: Simple examples
 uid: 7a10eee7-b8ac-0367-e80d-1d1095aa65bd

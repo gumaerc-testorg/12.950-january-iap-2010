@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1ab8d517-bb8e-0933-8180-af65586c56df
 resourcetype: Other
 title: Simple MPI examples
 uid: 05c16681-059f-1859-a557-2c448b27bfb2

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1ab8d517-bb8e-0933-8180-af65586c56df
 resourcetype: Other
 title: More openMP codes
 uid: ad81773b-3d40-7e02-d7f5-ad051a438073
