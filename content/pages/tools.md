@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides links to OpenMP compilers and other OpenMP tools.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: e2d66d50-f231-15e5-6f32-12845ff6216b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 OpenMP Compilers

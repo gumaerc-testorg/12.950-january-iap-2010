@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, basic topics to be covered, format, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5db607c1-871d-1e47-e753-45350343429c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides lecture notes from the course along with the schedule
+  of lecture topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 74c7a7ac-89fa-b9fc-1942-4f3daf737786
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -28,7 +37,7 @@ FILES
 Parallel computing and openMP
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_950iap10_lec1))
+({{% resource_link a266803e-9fa7-0caf-b1e5-6c36b1742d5a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +49,7 @@ Parallel computing and openMP
 Parallel computing and MPI Pt2Pt
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_950iap10_lec2))
+({{% resource_link d38f3c6b-eb50-fdf3-c4fd-cca37008c25f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +61,7 @@ Parallel computing and MPI Pt2Pt
 More Pt2Pt and collective communications
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_950iap10_lec3))
+({{% resource_link 3fda774b-f419-18c4-4567-b60d18ad2e30 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +73,7 @@ More Pt2Pt and collective communications
 Advanced MPI-1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_950iap10_lec4))
+({{% resource_link ac10e316-fb79-7b90-b991-3f9442dba294 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +85,7 @@ Advanced MPI-1
 More MPI-1 and parallel programming
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mit12_950iap10_lec5))
+({{% resource_link a5ec04f8-8c8b-a5e8-5086-e7078b20200f "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
