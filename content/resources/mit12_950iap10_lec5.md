@@ -8,6 +8,7 @@ file: /courses/12-950-parallel-programming-for-multicore-machines-using-openmp-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation on hybrid MPI+OpenMP programming, MPI performance tuning and portable performance, performance concepts and scalability, different modes of parallelism , parallelizing an existing code using MPI, and using 3rd party libraries or writing your own library.
-

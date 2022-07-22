@@ -5,6 +5,7 @@ file: /courses/12-950-parallel-programming-for-multicore-machines-using-openmp-a
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting code file for problem set 4.
-

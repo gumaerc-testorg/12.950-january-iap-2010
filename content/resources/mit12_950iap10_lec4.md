@@ -7,6 +7,7 @@ file: /courses/12-950-parallel-programming-for-multicore-machines-using-openmp-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation on collective communications, derived datatypes, groups, contexts, communicators, topologies, language binding issues , The MPI runtime, environment management, the MPI profiling interface, and tracing.
-

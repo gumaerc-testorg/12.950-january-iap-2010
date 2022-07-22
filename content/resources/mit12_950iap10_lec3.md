@@ -7,6 +7,7 @@ file: /courses/12-950-parallel-programming-for-multicore-machines-using-openmp-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation on bandwidth and latency in theory and in practice, paired and nonblocking Pt2Pt communications, other point to point routines, and collective communications: one-with-all and all-with-all.
-

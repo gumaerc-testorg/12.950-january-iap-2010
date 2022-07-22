@@ -8,6 +8,7 @@ file: /courses/12-950-parallel-programming-for-multicore-machines-using-openmp-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,5 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation on the fundamentals of shared memory programming, basic OpenMP concepts, PARALLEL directive, data scoping rules, basic OpenMP constructs/directives/calls, parallelizing an existing code using OpenMP, more advanced OpenMP directives and functions, and OpenMP performance and correctness issues.
-
-
