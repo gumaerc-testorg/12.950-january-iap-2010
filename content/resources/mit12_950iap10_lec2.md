@@ -4,6 +4,7 @@ description: Lecture presentation on OpenMP, MPI Pt2Pt, EC2 cluster and Vmware i
   demo, OpenMP 3.0 enhancements, fundamentals of distributed memory programming, MPI
   concepts, and blocking point to point communications.
 file: /courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/d38f3c6beb50fdf3c4fdcca37008c25f_MIT12_950IAP10_Lec2.pdf
+file_size: 449356
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

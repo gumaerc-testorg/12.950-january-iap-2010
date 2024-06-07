@@ -5,6 +5,7 @@ description: "Lecture presentation on the fundamentals of shared memory programm
   \ parallelizing an existing code using OpenMP, more advanced OpenMP directives and\
   \ functions, and OpenMP performance and correctness issues.\r\n"
 file: /courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/a266803e9fa70cafb1e56c36b1742d5a_MIT12_950IAP10_Lec1.pdf
+file_size: 607559
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
