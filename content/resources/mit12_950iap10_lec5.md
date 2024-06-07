@@ -5,6 +5,7 @@ description: Lecture presentation on hybrid MPI+OpenMP programming, MPI performa
   modes of parallelism , parallelizing an existing code using MPI, and using 3rd party
   libraries or writing your own library.
 file: /courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/a5ec04f88c8ba5e85086e7078b20200f_MIT12_950IAP10_Lec5.pdf
+file_size: 1095800
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
