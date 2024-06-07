@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting code file for problem set 1.
 file: /courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/ad81773b3d407e02d7f5ad051a438073_OmpSCR_v20.tar
+file_size: 962560
 file_type: application/x-tar
 learning_resource_types:
 - Assignments
