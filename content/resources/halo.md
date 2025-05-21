@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting code file for problem set 4.
-file: /ol-ocw-studio-app/courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/a6688a42ed2c5e44a8df30bbe0ad70e1_Halo.f
+file: /courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/a6688a42ed2c5e44a8df30bbe0ad70e1_Halo.f
 file_size: 22540
 file_type: text/plain
 learning_resource_types:
