@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting code file for problem set 2.
-file: /courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/05c16681059f1859a5572c448b27bfb2_Simple_MPI.tar
+file: /ol-ocw-studio-app/courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/05c16681059f1859a5572c448b27bfb2_Simple_MPI.tar
 file_size: 30720
 file_type: application/x-tar
 learning_resource_types:
