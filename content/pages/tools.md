@@ -15,15 +15,15 @@ video_metadata:
 OpenMP Compilers
 ----------------
 
-*   {{% resource_link "ff5b6d3b-1e73-4899-8382-00f7e4860834" "OpenMP Support in Sun Studio Compilers and Tools" %}}
-*   {{% resource_link "fb507a81-77fa-43a3-946b-2325741eb0e5" "Sun Studio Downloads" %}}
-*   {{% resource_link "c6f9fe56-1626-4e3f-8885-f8907349b033" "Sun Studio 12: OpenMP API User's Guide" %}}
-*   {{% resource_link "a4fa18b0-b429-40b0-886c-001a1fa5f279" "GNU libgomp" %}}
+*   [OpenMP Support in Sun Studio Compilers and Tools](http://developers.sun.com/solaris/articles/studio_openmp.html)
+*   [Sun Studio Downloads](http://developers.sun.com/sunstudio/downloads/index.jsp)
+*   [Sun Studio 12: OpenMP API User's Guide](http://docs.sun.com/app/docs/doc/819-5270)
+*   [GNU libgomp](http://gcc.gnu.org/onlinedocs/libgomp/)
 
 OpenMP Tools
 ------------
 
-*   {{% resource_link "94193b12-6bdb-423f-8741-13d0f5177d43" "Sun Studio 12: Thread Analyzer User's Guide" %}}
-*   {{% resource_link "1bdb484b-95b8-47ca-8cac-49d98527bd9e" "Sun Studio Compiler Options" %}}
-*   {{% resource_link "780bbd6b-6b7f-42b2-978a-1a40c5688a9c" "Sun Studio 12: Performance Analyzer" %}}
-*   {{% resource_link "c0f275d7-d57d-4522-9943-a74e276ff229" "Sun Studio 12: Debugging a Program With dbx" %}}
+*   [Sun Studio 12: Thread Analyzer User's Guide](https://docs.oracle.com/cd/E19205-01/820-0619/index.html)
+*   [Sun Studio Compiler Options](https://docs.oracle.com/cd/E19205-01/820-3529/index.html)
+*   [Sun Studio 12: Performance Analyzer](https://docs.oracle.com/cd/E19205-01/819-5264/)
+*   [Sun Studio 12: Debugging a Program With dbx](http://docs.sun.com/app/docs/doc/819-5257)
